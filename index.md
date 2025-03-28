@@ -10,3 +10,7 @@
 ``` python
 print("Hello, world!")
 ```
+
+- [x] Start a new guide
+- [ ] Complete the new guide
+- [ ] Create a profile using the earned knowledge
